@@ -4,4 +4,4 @@ Have you ever been on a website where an element “sticks” to the screen and 
 
 <h3>Watch the video tutorial:</h3>
 
-[![sticky sidebar menu](http://img.youtube.com/vi/yI-bWKjb8Mk/0.jpg)](http://www.youtube.com/watch?v=yI-bWKjb8Mk "How to create a sticky sidebar menu using only CSS")
+[![sticky sidebar menu](https://img.youtube.com/vi/yI-bWKjb8Mk/maxresdefault.jpg)](http://www.youtube.com/watch?v=yI-bWKjb8Mk "How to create a sticky sidebar menu using only CSS")
